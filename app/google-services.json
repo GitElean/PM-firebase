@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011514385768",
+    "project_id": "fir-uvglab",
+    "storage_bucket": "fir-uvglab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011514385768:android:b44d06081ce4b75637a2dd",
+        "android_client_info": {
+          "package_name": "com.example.pm_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011514385768-utup0k4vb3v217n88r40mdrgrdtl7hlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq6ZRTTT4X9bYnkJD4RxsM7Yl4jDIVVoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011514385768-utup0k4vb3v217n88r40mdrgrdtl7hlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
